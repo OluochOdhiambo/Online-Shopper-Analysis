@@ -4,11 +4,11 @@
 ## Task Description
 Market and customer analysis is fudamental for the success of any business as it enables the service provided to optimize their techniques to ensure the reach the right customers. A common problem that marketing teams face is that the desired outcome is often unknown hence the need for building a system that can infer trends from available data which will inform the marketing strategies. 
 
-i. Implemnet kmeans clustering.
+i. Implement kmeans clustering.
 
 ii. Implement heirachical clustering.
 
-iii. Provide mareting insights using the finding of the project.
+iii. Provide marketing insights using the findings of the project.
 
 
 ## Setup/Installation Requirements
